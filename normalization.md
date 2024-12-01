@@ -35,4 +35,5 @@ We can eliminate this by creating a new Host table with specific information abo
 
 ## Diagram
 
+![Normalized E-R Diagram](https://github.com/user-attachments/assets/f818f1df-ae02-4e99-8d1d-090c7f1d601f)
 
