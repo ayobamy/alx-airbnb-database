@@ -31,3 +31,8 @@ We can eliminate this by creating a new Host table with specific information abo
 - *created_at*: TIMESTAMP, DEFAULT CURRENT_TIMESTAMP
 
 - *updated_at*: TIMESTAMP, ON UPDATE CURRENT_TIMESTAMP
+
+
+## Diagram
+
+
