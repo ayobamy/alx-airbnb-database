@@ -6,6 +6,7 @@ INNER JOIN User u ON b.user_id = u.user_id;
 -- left join
 SELECT p.property_id, p.name, r.rating, r.comment
 FROM Property p
+ORDER BY p.name
 LEFT JOIN Review r ON p.property_id = r.property_id;
 
 -- full outer join
